@@ -1,5 +1,5 @@
 # Backend_Project
-# America Travel Blog 
+# American Travel Blog 
 
 Purpose of the app: This travel blog app was created to provide an opportunity for individuals to record their travel experiences in the United States. The App is also targeting individuals who plan on traveling in the United States. With the help of this app, individuals can read our blogs for information about different travel locations in the U.S. 
 
